@@ -1,0 +1,13 @@
+/* Elelment selectors */
+
+body{
+    background-color: burlywood;
+}
+
+#main{
+    text-align: center;
+    color:aqua;
+    background-color: black;
+}
+
+  
